@@ -14,3 +14,6 @@ duckdb:
 	
 polars:
 	python src/using_polars.py
+
+dashboard:
+	streamlit run dashboard/dashboard.py
